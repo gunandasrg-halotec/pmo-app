@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls /Users/gunandasiregar/Documents/ProjManagementApp/)",
+      "Bash(php --version)",
+      "Bash(composer --version)",
+      "Bash(npm --version)",
+      "Read(//usr/local/bin/**)",
+      "Read(//opt/homebrew/**)",
+      "Read(//Users/gunandasiregar/.nvm/versions/**)",
+      "Bash(export PATH=\"$HOME/.nvm/versions/node/$\\(ls ~/.nvm/versions/node/)"
+    ]
+  }
+}
